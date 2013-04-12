@@ -168,7 +168,7 @@ if (isset($_GET['url'])) {
 			</div>
 			<div id="info">
 				<br />
-				<strong>Demonstrate exploits faster</strong>:<br />
+				<strong>Prototype Your JS Mashups Faster</strong>:<br />
 				Get hacking, just include an url & script parameter and we'll insert the script before the end body tag.<br />
 			 	<br /><span style="font-size: 50%">Maybe you're a sick bastard and think testing a javascript<br /> that inserts veggies on bacolicio.us would be fun.<br />
                                 <a href="http://xxs.io?url=http://bacolicio.us&script=http://rcpeters.com/veggie.js">http://xxs.io?url=http://<strong>bacolicio.us</strong>&script=http://rcpeters.com/<strong>veggie.js</strong></a></span>
